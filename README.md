@@ -25,6 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50"/>&nbsp;
 </div>
 
+- Currently learning:
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
+</div>
+
 ---
 
 - Learn more about me and connect
