@@ -1,5 +1,5 @@
 ### Hi there 👋 :woman_technologist: 
-### I'm Lucie, a graduate from Full-stack Development and Software Testing bootcamps
+### I'm Lucie, a graduate of Full-stack Development and Software Testing bootcamps
 
 ---
 
@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cypressio/cypressio-original-wordmark.svg" width="50" height="50"/>&nbsp;
 </div>
 
 
